@@ -250,8 +250,9 @@ hr.red{
 
     }
     .my-work{
-        grid-template-columns: repeat(3,1fr);
-        grid-template-rows:  repeat(2,600px);
+        width: 96%;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows:  repeat(2,650px);
     }
     .comp{
         display: flex;
