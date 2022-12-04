@@ -199,7 +199,7 @@ const profile = () => {
                 
                  <div className='space'>
                  <p>Antalya, Turkey</p>
-                 <p>0541-520-4139</p>
+                 <p>0541-420-4139</p>
                  <p>oguzhanozturk3@hotmail.com</p>
                
                  </div>
