@@ -9,7 +9,7 @@ const RouteSwitch = () => {
 
     
     return (
-        <BrowserRouter>
+        <BrowserRouter basename="/personal-portfolio" >
             <Routes>
                 <Route path="/" element={<Profile />} />
             </Routes>
