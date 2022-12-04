@@ -102,6 +102,7 @@ width: 100%;
    
 }
 .heading h1{
+    
     font-weight: normal;
     
 
@@ -252,7 +253,7 @@ hr.red{
     .my-work{
         width: 96%;
         grid-template-columns: 1fr 1fr 1fr;
-        grid-template-rows:  repeat(2,700px);
+        grid-template-rows:  repeat(2,550px);
     }
     .comp{
         display: flex;
@@ -271,7 +272,7 @@ hr.red{
         margin-top: 50px;
     }
     .works-info{
-        height: 30%;
+        height: 35%;
     }
 
     .works:hover{
