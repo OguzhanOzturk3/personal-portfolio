@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.e08a7cab.css",
-    "main.js": "/static/js/main.4d150c65.js",
-    "static/media/weather.gif": "/static/media/weather.d49fad4b774ddde7f920.gif",
-    "static/media/memory.gif": "/static/media/memory.0bca5b85a65ec49260e3.gif",
-    "static/media/restaurant.gif": "/static/media/restaurant.8e6f7fcfc2fc2dca8865.gif",
-    "static/media/responsive.gif": "/static/media/responsive.40a36c5e395bf97bfefb.gif",
-    "static/media/shop-cart.gif": "/static/media/shop-cart.3eaa72468582947c489c.gif",
-    "static/media/draw.gif": "/static/media/draw.6c5079d85a1fc14a1b5b.gif",
-    "static/media/test.png": "/static/media/test.769f8277e26c8fed052d.png",
-    "static/media/picture.jpg": "/static/media/picture.fa232112e0f3af1e2890.jpg",
-    "index.html": "/index.html",
-    "main.e08a7cab.css.map": "/static/css/main.e08a7cab.css.map",
-    "main.4d150c65.js.map": "/static/js/main.4d150c65.js.map"
+    "main.css": "/personal-portfolio/static/css/main.e08a7cab.css",
+    "main.js": "/personal-portfolio/static/js/main.677e91f8.js",
+    "static/media/weather.gif": "/personal-portfolio/static/media/weather.d49fad4b774ddde7f920.gif",
+    "static/media/memory.gif": "/personal-portfolio/static/media/memory.0bca5b85a65ec49260e3.gif",
+    "static/media/restaurant.gif": "/personal-portfolio/static/media/restaurant.8e6f7fcfc2fc2dca8865.gif",
+    "static/media/responsive.gif": "/personal-portfolio/static/media/responsive.40a36c5e395bf97bfefb.gif",
+    "static/media/shop-cart.gif": "/personal-portfolio/static/media/shop-cart.3eaa72468582947c489c.gif",
+    "static/media/draw.gif": "/personal-portfolio/static/media/draw.6c5079d85a1fc14a1b5b.gif",
+    "static/media/test.png": "/personal-portfolio/static/media/test.769f8277e26c8fed052d.png",
+    "static/media/picture.jpg": "/personal-portfolio/static/media/picture.fa232112e0f3af1e2890.jpg",
+    "index.html": "/personal-portfolio/index.html",
+    "main.e08a7cab.css.map": "/personal-portfolio/static/css/main.e08a7cab.css.map",
+    "main.677e91f8.js.map": "/personal-portfolio/static/js/main.677e91f8.js.map"
   },
   "entrypoints": [
     "static/css/main.e08a7cab.css",
-    "static/js/main.4d150c65.js"
+    "static/js/main.677e91f8.js"
   ]
 }
